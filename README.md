@@ -1,0 +1,41 @@
+# 🙋🏻‍♂️ **About Me** 🙋🏻‍♂️
+Hello everyone! My name is **Blu3Phoenix**, a little programmer<br>
+with ideas bigger than the universe.<br>
+I am **22 years old** and I live in **Spain**.<br>
+
+# 👨🏻‍🎓 **My Formation** 👨🏻‍🎓
+Currently, I am a **certified cross-platform application development<br>
+technician**. I dedicate myself to **creating applications** using the knowledge<br>
+acquired thanks to my studies and my many hours of research.
+
+# 📖 **Knowledge Level** 📖
+- **Programming Languages**:
+  - Java
+  - C#
+  - JavaScript
+  - TypeScript
+  - Python
+- **Markup Languages**:
+  - HTML
+  - CSS
+- **Database Engines**:
+  - MySQL
+  - SQL Server
+- **Software Platforms**:
+  - Eclipse IDE
+  - BlueJ
+  - Visual Studio
+  - Visual Studio Code
+  - PyCharm
+- **Game Engines**:
+  - Unity 3D
+  
+# 🦾 **My Hobbies** 🦾
+My main hobby is **programming**. I love programming anything. When an idea occurs to me, however<br>
+absurd it may be, I try to translate it into code as soon as possible. If it turns out that this<br>
+idea is scalable, I try to turn it into a project. Another of my hobbies is **playing video games**<br> 
+of any kind. Shooters, Battle Royales, Racing, etc.
+
+# ♥ **You help me?** ♥
+If you like my profile, don't forget to follow me on my GitHub account by clicking the **Follow button**!<br>
+Thank you!
