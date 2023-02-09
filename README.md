@@ -1,3 +1,11 @@
+```java
+public class Blu3Phoenix {
+  public static void main(String[] args) {
+    System.out.println("Hello World!");
+  }
+}
+```
+
 # 🙋🏻‍♂️ **About Me** 🙋🏻‍♂️
 Hello everyone! My name is **Blu3Phoenix**, a little programmer<br>
 with ideas bigger than the universe.<br>
